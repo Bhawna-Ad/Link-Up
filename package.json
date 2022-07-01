@@ -1,0 +1,19 @@
+{
+  "name": "linkup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lobby.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhawna-Ad/Link-Up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhawna-Ad/Link-Up/issues"
+  },
+  "homepage": "https://github.com/Bhawna-Ad/Link-Up#readme"
+}
